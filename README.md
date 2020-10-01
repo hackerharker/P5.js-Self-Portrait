@@ -1,6 +1,6 @@
 # P5.js-Self-Portrait
 
-![Self Portrait](self-portrait-gif.gif)
+![Self Portrait](self-portrait.gif)
 
 ## Summary
 
